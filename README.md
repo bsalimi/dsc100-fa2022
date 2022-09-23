@@ -77,9 +77,7 @@ Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman,
 
 **Canvas:** All weekly homework assignments should be turned in via Canvas.
 
-**Gradescope:** We will use Gradescope for submission and grading of exams.
-
-**Communication and Piazza:**  All important announcements will be sent through both Piazza and Canvas.
+**Communication and Piazza:**  All important announcements will be sent through both Piazza.
 
 All questions that may be of general interest to the class should be directed to Piazza. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each others' questions on Piazza (*you will get extra credit for # of good answers on Piazza!*) and the instructional team would endorse/add to those answers.
 
