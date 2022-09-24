@@ -29,7 +29,7 @@ Manasi Agrawal, [maagrawa@ucsd.edu](mailto:maagrawa@ucsd.edu)
 
 **Lectures**:
 
-The lecture for this class will will be SYNCHRONOUS. 
+The lecture for this class will be SYNCHRONOUS. 
 
 **Discussion:**: 
 
@@ -37,8 +37,15 @@ TBD
 
 **Office Hours:**
 
-TBD
+Manasi - Monday 11am-12pm
 
+Aditya - Tuesday 4PM-5PM
+
+Divija - Wednesday 12-1PM
+
+Baharan - Thursday 12:50PM-1:50PM
+
+**Note:** Office hours will be held via Zoom. 
 
 
 
@@ -50,6 +57,14 @@ TBD
 
 ## **Calender:**
 
+| Date |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
+| :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
+|  September 22   | Introduction  | NA  |    NA    | [Introduction](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) |NA|
+|  September 27   | Relational Data Model |   |       | [Data Models](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) | Sec. 2.1, 2.2, 2.3 |
+|  September 29   | SQL and Aggregates |   |       |  |  |
+
+
+*Note:*  The slides are adopted from the  UW database group. 
 
 
 ## Workload:
