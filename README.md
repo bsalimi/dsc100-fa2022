@@ -60,7 +60,7 @@ Baharan - Thursday 12:50PM-1:50PM
 | Date |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
 |  September 22   | Introduction  | NA  |    NA    | [Introduction](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) |NA|
-|  September 27   | Relational Data Model |   |  Homework 1: SQLITE and SQL Basics (released)    | [Data Models](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) | Sec. 2.1, 2.2, 2.3 |
+|  September 27   | Relational Data Model |   |  Homework 1: SQLITE and SQL Basics (released)    | [Data Models](https://drive.google.com/file/d/1pSuZ93Lr9bnfwIz_Yf3S2pbk-RQpISGB/view?usp=sharing) [Demo](https://drive.google.com/file/d/1QMaUIn5CEXc12PzHqc1zi2y5ckAiGSQ9/view?usp=sharing) | Sec. 2.1, 2.2, 2.3 |
 |  September 29   | SQL Basics |   |       | [SQL Basics](https://drive.google.com/file/d/1rh1N9CjmJ3kl1Z3TO-RZKDtWMaAy86Bb/view?usp=sharing)  |  |
 
 
