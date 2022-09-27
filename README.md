@@ -64,7 +64,7 @@ Baharan - Thursday 12:50PM-1:50PM
 |  September 29   | SQL Basics |   |       | [SQL Basics](https://drive.google.com/file/d/1rh1N9CjmJ3kl1Z3TO-RZKDtWMaAy86Bb/view?usp=sharing)  |  |
 
 
-*Note:*  The slides are adopted from the  UW database group. 
+*Note:*  Some slides are adopted from the UW database group. 
 
 
 ## Workload:
