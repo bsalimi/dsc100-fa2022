@@ -1,4 +1,4 @@
-![The_Data_Lifecycle](fig/The_Data_Lifecycle.jpg)
+![The_Data_Lifecycle](fig/The_Data_Lifecycle.jpeg)
 
 #   DSC 100: Introduction to Data Management
 
