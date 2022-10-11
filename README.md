@@ -61,6 +61,7 @@ Baharan - Thursday 12:50PM-1:50PM
 |  September 29   | SQL Basics |   |  WQ1: Data Models and Simple SQL (released)    | [SQL Basics](https://drive.google.com/file/d/1rh1N9CjmJ3kl1Z3TO-RZKDtWMaAy86Bb/view?usp=sharing) [Demo](https://drive.google.com/file/d/1rVmq1wmhTSX-BhPyeAoMfA6WzVRm-2C9/view?usp=sharing) |  |
 |  October 04   | Joins  |  |       | [Joins](https://drive.google.com/file/d/1X-mmtFLGfBWT6_9nZGn-qbnRc40qZaYI/view?usp=sharing) [demo](https://drive.google.com/file/d/1XD7KWFOlzPU5eLDd-vrVTz-plcWD7M6-/view?usp=sharing) |
   October 06   | Grouping and Aggregation  |  |       | [Grouping and Aggregation](https://drive.google.com/file/d/1vrK4KyrBIk3P-g_FPGfJ_J0Lb91lu98v/view?usp=sharing) [Demo](https://drive.google.com/file/d/1X53PbcIUrNSM5uuj8_4JI5UsC7FiEAgr/view?usp=sharing) [Data](https://drive.google.com/file/d/1vj9WdBOjQ-na8hCPGgDDFdTq-tA9_eTD/view?usp=sharing) | Sec. 6.1, 6.2|
+    October 11   | Nested SQL Queries and Set Operations |  |       | [Nested SQL Queries ](https://drive.google.com/file/d/1w0yMi1cEClMT8ytGyiCKLOWG7xKT-Z3J/view?usp=sharing) [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing)  | |
 
 
 
