@@ -62,7 +62,7 @@ Baharan - Thursday 12:50PM-1:50PM
 |  October 04   | Joins  |  |       | [Joins](https://drive.google.com/file/d/1X-mmtFLGfBWT6_9nZGn-qbnRc40qZaYI/view?usp=sharing) [demo](https://drive.google.com/file/d/1XD7KWFOlzPU5eLDd-vrVTz-plcWD7M6-/view?usp=sharing) |
   October 06   | Grouping and Aggregation  |  |       | [Grouping and Aggregation](https://drive.google.com/file/d/1vrK4KyrBIk3P-g_FPGfJ_J0Lb91lu98v/view?usp=sharing) [Demo](https://drive.google.com/file/d/1X53PbcIUrNSM5uuj8_4JI5UsC7FiEAgr/view?usp=sharing) [Data](https://drive.google.com/file/d/1vj9WdBOjQ-na8hCPGgDDFdTq-tA9_eTD/view?usp=sharing) | Sec. 6.1, 6.2|
     October 11   | Nested SQL Queries and Set Operations |  |       | [Nested SQL Queries ](https://drive.google.com/file/d/1w0yMi1cEClMT8ytGyiCKLOWG7xKT-Z3J/view?usp=sharing) [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing)  | |
-    October 13   | Nested SQL Queries and Set Operations |  |       | [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing) [Demo](https://drive.google.com/file/d/1w66L9F-HQB_MpFYUWtainh9IG0ZsXvag/view?usp=sharing) [Data Set 1](https://drive.google.com/file/d/1wBRnsAlM1lLTE6m5QdV0JD0neL6pJg_a/view?usp=sharing) [Data Set 2](https://drive.google.com/file/d/1wIPh31_9wXbZlGoV05bkMdq7-l-jXLld/view?usp=sharing)  | |
+    October 13   | Nested SQL Queries and Set Operations |  |       | [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing) [Demo](https://drive.google.com/file/d/1w66L9F-HQB_MpFYUWtainh9IG0ZsXvag/view?usp=sharing) [Data](https://drive.google.com/file/d/1wVWVcHZyw5Zp1dFpruoGbktuk-gS0DVf/view?usp=sharing)  | |
 
 
 
