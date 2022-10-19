@@ -63,7 +63,9 @@ Baharan - Thursday 12:50PM-1:50PM
   October 06   | Grouping and Aggregation  |  |       | [Grouping and Aggregation](https://drive.google.com/file/d/1vrK4KyrBIk3P-g_FPGfJ_J0Lb91lu98v/view?usp=sharing) [Demo](https://drive.google.com/file/d/1X53PbcIUrNSM5uuj8_4JI5UsC7FiEAgr/view?usp=sharing) [Data](https://drive.google.com/file/d/1vj9WdBOjQ-na8hCPGgDDFdTq-tA9_eTD/view?usp=sharing) | Sec. 6.1, 6.2|
     October 11   | Nested SQL Queries and Set Operations |  |       | [Nested SQL Queries ](https://drive.google.com/file/d/1w0yMi1cEClMT8ytGyiCKLOWG7xKT-Z3J/view?usp=sharing)  | |
     October 13   | Nested SQL Queries and Set Operations |  |       | [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing) [Demo](https://drive.google.com/file/d/1w66L9F-HQB_MpFYUWtainh9IG0ZsXvag/view?usp=sharing) [Data](https://drive.google.com/file/d/1wVWVcHZyw5Zp1dFpruoGbktuk-gS0DVf/view?usp=sharing)  | |
+| October 18    | Formal Query Langaues  |  |       | [Relational Algebra](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) | |
 
+https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing
 
 
 *Note:*  Some slides are adopted from the UW database group. 
@@ -79,7 +81,7 @@ Baharan - Thursday 12:50PM-1:50PM
    Start early and allocate enough time to solve these problems! 
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. 
-3. **Midterm (20%)** and **final  (20%)**: Details would be posted later.
+3. **Midterm (15%)** and **final  (25%)**: Details would be posted later.
 5. **Extra Credit**: 
 
    - Some howmeworks have extra credit questions.
