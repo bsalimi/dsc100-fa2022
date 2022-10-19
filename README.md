@@ -65,7 +65,7 @@ Baharan - Thursday 12:50PM-1:50PM
     October 13   | Nested SQL Queries and Set Operations |  |       | [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing) [Demo](https://drive.google.com/file/d/1w66L9F-HQB_MpFYUWtainh9IG0ZsXvag/view?usp=sharing) [Data](https://drive.google.com/file/d/1wVWVcHZyw5Zp1dFpruoGbktuk-gS0DVf/view?usp=sharing)  | |
 | October 18    | Formal Query Langaues  |  |       | [Relational Algebra](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) | |
 
-https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing
+
 
 
 *Note:*  Some slides are adopted from the UW database group. 
