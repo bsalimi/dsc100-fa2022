@@ -63,8 +63,8 @@ Baharan - Thursday 12:50PM-1:50PM
 October 06   | Grouping and Aggregation  |  |       | [Grouping and Aggregation](https://drive.google.com/file/d/1vrK4KyrBIk3P-g_FPGfJ_J0Lb91lu98v/view?usp=sharing) [Demo](https://drive.google.com/file/d/1X53PbcIUrNSM5uuj8_4JI5UsC7FiEAgr/view?usp=sharing) [Data](https://drive.google.com/file/d/1vj9WdBOjQ-na8hCPGgDDFdTq-tA9_eTD/view?usp=sharing) | Sec. 6.1, 6.2|
 October 11   | Nested SQL Queries and Set Operations |  |       | [Nested SQL Queries ](https://drive.google.com/file/d/1w0yMi1cEClMT8ytGyiCKLOWG7xKT-Z3J/view?usp=sharing)  | |
 October 13   | Nested SQL Queries and Set Operations |  |       | [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing) [Demo](https://drive.google.com/file/d/1w66L9F-HQB_MpFYUWtainh9IG0ZsXvag/view?usp=sharing) [Data](https://drive.google.com/file/d/1wVWVcHZyw5Zp1dFpruoGbktuk-gS0DVf/view?usp=sharing)  | |
-| October 18    | Formal Query Langaues (Part 1)  |  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
-| October 20    | Formal Query Langaues (Part2)  |  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
+| October 18    | Formal Query Languages (Part 1)  |  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
+| October 20    | Formal Query Languages (Part2)  |  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
 | October 25    | Midterm  |  |       |  | |
 | October 27    | Query Evaluation  |  |       | [Slides](https://drive.google.com/file/d/1-txCsFSltz3bCZ1XzzHgZvVEkIOHVbqq/view?usp=sharing) [Video](https://drive.google.com/file/d/1bbTUvQhk7y0rPQj07m0fh31sTSJxTPpG/view?usp=sharing) | |
 
