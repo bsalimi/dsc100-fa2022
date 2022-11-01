@@ -67,7 +67,7 @@ October 13   | Nested SQL Queries and Set Operations |  |       | [Set Opera
 | October 20    | Formal Query Languages (Part2)  |  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
 | October 25    | Midterm  |  |       |  | |
 | October 27    | Query Evaluation  |  |       | [Slides](https://drive.google.com/file/d/1-txCsFSltz3bCZ1XzzHgZvVEkIOHVbqq/view?usp=sharing) [Video](https://drive.google.com/file/d/1bbTUvQhk7y0rPQj07m0fh31sTSJxTPpG/view?usp=sharing) | |
-| November 1    | Basics of Data Storage and Indexes  |  |       | [Slides](https://drive.google.com/file/d/105MgPTw9R8xg9qbkBQu3cU6ayZ619RTN/view?usp=sharing) [Video](https://drive.google.com/file/d/109SVKzUmj5kJyBYIylO0xBp3ptNHBE7e/view?usp=sharing) | |
+| November 1    | Basics of Data Storage and Indexes (Part 1)  |  |       | [Slides](https://drive.google.com/file/d/105MgPTw9R8xg9qbkBQu3cU6ayZ619RTN/view?usp=sharing) [Video](https://drive.google.com/file/d/109SVKzUmj5kJyBYIylO0xBp3ptNHBE7e/view?usp=sharing) | |
 
 
 
