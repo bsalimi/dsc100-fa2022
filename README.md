@@ -69,7 +69,7 @@ October 13   | Nested SQL Queries and Set Operations |  |       | [Set Opera
 | October 27    | Query Evaluation  |  |       | [Slides](https://drive.google.com/file/d/1-txCsFSltz3bCZ1XzzHgZvVEkIOHVbqq/view?usp=sharing) [Video](https://drive.google.com/file/d/1bbTUvQhk7y0rPQj07m0fh31sTSJxTPpG/view?usp=sharing) | |
 | November 1    | Basics of Data Storage and Indexes (Part 1)  |  |       | [Slides](https://drive.google.com/file/d/105MgPTw9R8xg9qbkBQu3cU6ayZ619RTN/view?usp=sharing) [Video](https://drive.google.com/file/d/109SVKzUmj5kJyBYIylO0xBp3ptNHBE7e/view?usp=sharing) | |
 | November 3    | Basics of Data Storage and Indexes (Part 2)  |  |       | [Slides](https://drive.google.com/file/d/108kJ0W_cY0GH9ILHPXI4lG9n2OJHmLq1/view?usp=sharing) [Video](https://drive.google.com/file/d/10DYoOZ--vFSQstAxFfRclnDFPrbV_hbo/view?usp=sharing) | |
-| November 8    | Conceptual Design and Integrity Constraints  |  |       | [Slides Part 1](https://drive.google.com/file/d/1VhaKeCqsdfCOsOjyUFb7IJUPMRrj4G-O/view?usp=sharing) [Video Part 1](https://drive.google.com/file/d/1Sl94noI8lRrt_jCNRNrD5lHFVEnsfKJB/view?usp=sharing)  [Slides Part 2](https://drive.google.com/file/d/1WXC9GmLX3ki4Y_kM6rnOQVIegaTlppCS/view?usp=sharing) [Video Part 2](https://drive.google.com/file/d/1nZEmBP1OGtzIWWdz9x7LN-If4fPiRmSV/view?usp=sharing) | Sec. 4.1-4.6
+| November 8    | Conceptual Design and Integrity Constraints  |  |       | [Slides](https://drive.google.com/file/d/1VhaKeCqsdfCOsOjyUFb7IJUPMRrj4G-O/view?usp=sharing) [Video](https://drive.google.com/file/d/1Sl94noI8lRrt_jCNRNrD5lHFVEnsfKJB/view?usp=sharing)  | Sec. 4.1-4.6
  
 
 
