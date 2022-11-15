@@ -70,7 +70,7 @@ October 13   | Nested SQL Queries and Set Operations |  |       | [Set Opera
 | November 1    | Basics of Data Storage and Indexes (Part 1)  |  |       | [Slides](https://drive.google.com/file/d/105MgPTw9R8xg9qbkBQu3cU6ayZ619RTN/view?usp=sharing) [Video](https://drive.google.com/file/d/109SVKzUmj5kJyBYIylO0xBp3ptNHBE7e/view?usp=sharing) | |
 | November 3    | Basics of Data Storage and Indexes (Part 2)  |  |       | [Slides](https://drive.google.com/file/d/108kJ0W_cY0GH9ILHPXI4lG9n2OJHmLq1/view?usp=sharing) [Video](https://drive.google.com/file/d/10DYoOZ--vFSQstAxFfRclnDFPrbV_hbo/view?usp=sharing) | |
 | November 8    | Conceptual Design |  |       | [Slides Part 1](https://drive.google.com/file/d/1VhaKeCqsdfCOsOjyUFb7IJUPMRrj4G-O/view?usp=sharing) [Video](https://drive.google.com/file/d/1Sl94noI8lRrt_jCNRNrD5lHFVEnsfKJB/view?usp=sharing)  | Sec. 4.1-4.6
- November 10    |Integrity Constraints|  |       |[Slide](https://drive.google.com/file/d/118dUFs5kPIprTBkqkia_ofForz8E6kVf/view?usp=sharing)   | 
+ November 10    |Integrity Constraints|  |       |[Slides](https://drive.google.com/file/d/118dUFs5kPIprTBkqkia_ofForz8E6kVf/view?usp=sharing)   | 
 | November 14    | Design Theory |  |       | [Slides](https://drive.google.com/file/d/152-0oCVXgGrF95w5TfvevTvkJBB-U-LA/view?usp=sharing)  |
 
 *Note:*  Some slides are adopted from the UW database group. 
