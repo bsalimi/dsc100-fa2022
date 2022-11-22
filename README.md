@@ -73,7 +73,6 @@ October 13   | Nested SQL Queries and Set Operations |  |       | [Set Opera
  November 10    |Integrity Constraints|  |       |[Slides](https://drive.google.com/file/d/118dUFs5kPIprTBkqkia_ofForz8E6kVf/view?usp=sharing)   | 
 | November 14    | Design Theory |  |       | [Slides](https://drive.google.com/file/d/152-0oCVXgGrF95w5TfvevTvkJBB-U-LA/view?usp=sharing)  |
 | November 17    | Normal Forms |  |       | [Slides](https://drive.google.com/file/d/1-e5gZOyYBa1y1gjqGgBvYkmAIu9ZRR5_/view?usp=sharing)  |
-
 | November 22    | NoSQL DataBases |  |       | [Slides](https://drive.google.com/file/d/15CRz9yUweEs0c6oFGnxti8YZcDc2fHxq/view?usp=sharing)  |
 
 
