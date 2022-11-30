@@ -72,7 +72,7 @@ October 13   | Nested SQL Queries and Set Operations |  |       | [Set Opera
 | November 8    | Conceptual Design |  |       | [Slides](https://drive.google.com/file/d/1VhaKeCqsdfCOsOjyUFb7IJUPMRrj4G-O/view?usp=sharing) [Video](https://drive.google.com/file/d/1Sl94noI8lRrt_jCNRNrD5lHFVEnsfKJB/view?usp=sharing)  | Sec. 4.1-4.6
  November 10    |Integrity Constraints|  |       |[Slides](https://drive.google.com/file/d/118dUFs5kPIprTBkqkia_ofForz8E6kVf/view?usp=sharing)   | 
 | November 14    | Design Theory |  |       | [Slides](https://drive.google.com/file/d/152-0oCVXgGrF95w5TfvevTvkJBB-U-LA/view?usp=sharing)  |
-| November 17    | Normal Forms |  |       | [Slides](https://drive.google.com/file/d/1-e5gZOyYBa1y1gjqGgBvYkmAIu9ZRR5_/view?usp=sharing)  |
+| November 17    | Normal Forms |[Discussion: Database Design Theory and BCNF](https://drive.google.com/file/d/18pLhCMaIeXg0kdseO2QJix62qaIXtBFH/view?usp=sharing)  |       | [Slides](https://drive.google.com/file/d/1-e5gZOyYBa1y1gjqGgBvYkmAIu9ZRR5_/view?usp=sharing)  |
 | November 22    | NoSQL Databases |  |       | [Slides](https://drive.google.com/file/d/15CRz9yUweEs0c6oFGnxti8YZcDc2fHxq/view?usp=sharing)  |
 | November 29    | Basics of Data Cleaning |  |       | [Slides](https://drive.google.com/file/d/15PMKHzPh_VPCTiHDUGBmyX3-bSMPO8QY/view?usp=sharing)  |
 
