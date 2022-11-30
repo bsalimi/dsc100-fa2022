@@ -23,7 +23,7 @@ Aditya Lahiri, [adlahiri@ucsd.edu](mailto:dlahiri@ucsd.edu)
 
 Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)
 
-Divija Devarla, [ddevarla@ucsd.edu](mailto:devarla@ucsd.edu)
+Divija Devarla, [ddevarla@ucsd.edu](mailto:ddevarla@ucsd.edu)
 
 Manasi Agrawal, [maagrawa@ucsd.edu](mailto:maagrawa@ucsd.edu)
 
